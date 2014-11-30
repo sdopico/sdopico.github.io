@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  
+
+    <head>
+        <title>Exercise 3: HTML wireframe</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="A basic HTML layout styles with CSS.">
+        <meta name="keywords" content="HTML,CSS,layout,wireframe,mmc3260">
+        <meta name="author" content="Stefani Dopico">
+        <link rel="stylesheet" type="text/css" href="css/layout.css">
+    </head>
+
+    <body>
+
+        <div id="wrapper">
+        
+            <header>
+                <h1>Stefani's Personal Site</h1>
+            </header>
+            
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">Portfolio</a>
+                <a href="#">Contact</a>
+            </nav>
+            
+            <article>
+                <h1>Contact Me Here!</h1>
+                <p>Thank you for visiting my website. If you’d like to get in contact with me for any reason,</p>
+                <p>please don’t hesitate to do so through any of the following:</p>
+                <h3>Basic Information:</h3>
+                <p><strong>Stefani Dopico</strong></p>
+                <p>stefanidopico@aol.com</p>
+                <p><small>954-648-4832</small></p>
+                <h3>Or, Here's a Form:</h3>
+                <p>Need to request more information? Inquire about employment?</p>
+                <p>Start a friendship? Here's the place to do it.</p>
+
+                </div>
+                <p>
+<a id="foxyform_embed_link_604080" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=604080&sec_hash=a8e011bb82b&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script></p>
+            </article>
+            <a href="http://twitter.com/stefanidopico" target="_blank"><img src="twitter-logo.png" border="0" width="40" title="Twitter" alt="Twitter logo"></a> <a href="https://www.linkedin.com/pub/stefani-dopico/a3/119/19" target="_blank"><img src="linkedin-icon-logo.png" border="0" width="40" title="LinkedIn" alt="LinkedIn logo"></a>
+            <footer>
+                <p><small>&copy; 2014 Stefani Dopico</small></p>
+            </footer>
+        
+        </div>
+
+    </body>
+
+</html>
