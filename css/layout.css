@@ -10,6 +10,7 @@ h1 {
 }
 
 body {  
+       font-family: "Palatino";
         font-size: 14px;
         line-height: 24px;
         margin: 0;
@@ -181,7 +182,7 @@ img {width: 100%;
 
 footer {
     clear: both;
-    font-family: palatino, sans-serif;
+    font-family: "palatino", sans-serif;
     font-size: 12px;
     padding: 0 10px 0 10px;
     background-color: #026D93;
