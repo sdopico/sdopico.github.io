@@ -65,8 +65,7 @@ header a:hover {
 header a:visited {
         text-decoration:none;
  }
-    
-
+   
 
 article {
     clear: both;
@@ -92,12 +91,10 @@ aside {
     float:right;
     width: 45%;
     margin: 0 0 10px 2%;
-    
 }
 
 
 h1 {
-    
     color: #000000;
     font-size: 100px
 }
@@ -123,17 +120,12 @@ h5{
 }
 
 
-
 p {
     font-size: 14px;
     line-height: 24px;
     color: #0000000;
-    
 }
     
-
-img {
-    margin: 10px 0 20px 0;
     
 }
 
