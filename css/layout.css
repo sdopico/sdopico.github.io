@@ -21,6 +21,10 @@ body {
 
 aside {
 	text-align: right;
+	background-color: ;
+    float: right;
+    width: 45%;
+    margin: 0 0 10px 2%;
 }
 
 #wrapper { 
@@ -85,15 +89,6 @@ article h2 {
         line-height: 34px;
         margin-bottom: 4px;
 }
-
-
-aside {
-    background-color: ;
-    float:right;
-    width: 45%;
-    margin: 0 0 10px 2%;
-}
-
 
 h1 {
     color: #000000;
