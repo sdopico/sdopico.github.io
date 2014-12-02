@@ -103,23 +103,17 @@ h1 {
 h2 {
     margin: 15px 0 15px 0;
     color: #000000;
-    text-align: left
+    
 }
 
 h3 { margin: 15px 0 0 0;
     color: #000000;
-    text-align: left;
+    
 }
 
 h4 { 
-    text-align: left;
+    
 }
-
-h5{ 
-    text-align: left;
-    font-size: 14px;
-}
-
 
 p {
     font-size: 14px;
