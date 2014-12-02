@@ -21,6 +21,9 @@ body {
         height: 100;
 }
 
+aside {
+	text-align: right;
+}
 
 #wrapper { 
         min-height: 100%;
