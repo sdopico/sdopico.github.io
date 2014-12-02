@@ -14,10 +14,15 @@ body {
         height: 100;
 }
 
+#left-column {
+	width: 50%;
+	float: left;
+}
+
 aside {
 	text-align: right;
     float: right;
-    width: 45%;
+    width: 40%;
 }
 
 #wrapper { 
