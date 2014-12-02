@@ -3,6 +3,9 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background color: #ffd6ff;
+       background-image: url('pink-feather-texture-background.jpg');
+    	background-repeat: no-repeat;
 }
 
 h1 {
@@ -10,9 +13,7 @@ h1 {
 }
 
 body {  
-       background color: #ffd6ff;
-       background-image: url('pink-feather-texture-background.jpg');
-    	background-repeat: no-repeat;
+       
        font-family: "Palatino Linotype";
         font-size: 14px;
         line-height: 24px;
