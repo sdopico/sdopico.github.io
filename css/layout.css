@@ -44,7 +44,7 @@ header nav {
         margin: 18px 0 0 10px ;
     background-color: #026D93;
         text-align: center;
-        font-family: Herculanum, sans-serif;
+        font-family: "Palatino", sans-serif;
 }
     
 header a {
@@ -92,7 +92,7 @@ aside {
 
 
 h1 {
-    font-family: Arial Narrow, sans-serif;
+    
     color: #000000;
     font-size: 100px
 }
@@ -125,20 +125,9 @@ p {
     color: #0000000;
     
 }
-
-.resume { 
-    clear: both;
-    font-size: 16px;
-    font-family: cambria;
-    width: 100%;
-    line-height: 12px;
-    margin: 0 0 0 0;
-    padding: 0;
     
-    
-}
 
-img {width: 100%;
+img {
     margin: 10px 0 20px 0;
     
 }
