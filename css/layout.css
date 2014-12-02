@@ -1,5 +1,5 @@
 *    {
-    background color: #ffd6ff;
+    
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -10,6 +10,7 @@ h1 {
 }
 
 body {  
+       background color: #ffd6ff;
        background-image: url("img/pink-feather-texture-background.jpg");
     	background-repeat: no-repeat;
        font-family: "Palatino Linotype";
