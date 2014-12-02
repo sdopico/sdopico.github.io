@@ -158,14 +158,11 @@ p {
     max-height: 45%;
     margin:  0 5% 5% 5%;
     border:  solid #000000 5px;
-        
-    
 }
  
 .full { max-width: 1060px;
         margin: 0 6% 0 6%;
         max-height: 50%;
-       
 }
 
 
@@ -177,8 +174,8 @@ footer {
     background-color: #ff0066;
     color: #000000;
     height: 30px;
-    width:100%;
+    width: 100%;
     position: absolute;
-    bottom:0;
+    bottom: 0;
         
 }
